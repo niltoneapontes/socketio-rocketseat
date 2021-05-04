@@ -1,0 +1,24 @@
+{
+  "name": "socketio-rocketseat",
+  "version": "1.0.0",
+  "description": "Uma app básica utilizando socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niltoneapontes/socketio-rocketseat.git"
+  },
+  "author": "Nilton Pontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niltoneapontes/socketio-rocketseat/issues"
+  },
+  "homepage": "https://github.com/niltoneapontes/socketio-rocketseat#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
